@@ -1,19 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://jluseatcovers.com/</loc><changefreq>daily</changefreq></url>
-  <url><loc>https://jluseatcovers.com/best-jeep-wrangler-jlu-seat-covers.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://jluseatcovers.com/buyers-guide.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://jluseatcovers.com/about.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://jluseatcovers.com/contact.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://jluseatcovers.com/jluseatcovers-buying-guide-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://jluseatcovers.com/jluseatcovers-trends-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://jluseatcovers.com/jluseatcovers-explained-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://jluseatcovers.com/best-jluseatcovers-without-overpaying.html</loc><lastmod>2026-05-18</lastmod></url>
-  <url><loc>https://jluseatcovers.com/jluseatcovers-quality-vs-marketing.html</loc><lastmod>2026-05-19</lastmod></url>
-  <url><loc>https://jluseatcovers.com/jluseatcovers-buyers-handbook-2026.html</loc><lastmod>2026-05-23</lastmod></url>
-  <url><loc>https://jluseatcovers.com/what-we-look-for-jluseatcovers-2026.html</loc><lastmod>2026-05-25</lastmod></url>
-  <url><loc>https://jluseatcovers.com/best-jluseatcovers-2026.html</loc><lastmod>2026-05-29</lastmod></url>
-  <url><loc>https://jluseatcovers.com/jluseatcovers-what-buyers-need-2026.html</loc><lastmod>2026-06-01</lastmod></url>
-  <url><loc>https://jluseatcovers.com/jluseatcovers-practical-guide-2026.html</loc><lastmod>2026-06-04</lastmod></url>
-  <url><loc>https://jluseatcovers.com/jluseatcovers-compared-2026.html</loc><lastmod>2026-06-06</lastmod></url>
+  <url>
+    <loc>https://jluseatcovers.com/</loc>
+    <lastmod>2026-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
 </urlset>
